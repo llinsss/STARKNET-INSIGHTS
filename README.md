@@ -26,6 +26,8 @@ Whether you're a developer looking to build on StarkNet or a newcomer curious ab
 
 StarkNet is more than just technology—it's a vibrant community of developers, enthusiasts, and innovators. We showcase community-driven initiatives, events, and discussions, keeping you connected to the heartbeat of StarkNet.
 
+personal note is to my co`contributor. you're an asshole!!!
+
 ## Stay Connected
 
 Don't miss out on the latest insights from the StarkNet ecosystem. Subscribe to StarkNet Insights today and join us on the journey to decentralized scalability.
